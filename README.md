@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @josep29
-- 👀 I’m interested in ML, RL, Py
-- 🌱 I’m currently learning ML, RL
+- 👀 I’m interested in ML, DL, Py, Js, C++
+- 🌱 I’m currently learning ML, DL
 - 📫 How to reach me joseppes05@gmail.com
 
 <!---
